@@ -1,4 +1,4 @@
-
+//exercise 1, 1.3 IPIJ
 public class AllEqual {
     public static void main(String[] args) {
         int a = Integer.parseInt(args[0]);

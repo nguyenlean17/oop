@@ -1,3 +1,4 @@
+//Exercise 10, 1.4 IPIJ
 import java.util.Scanner;
 
 public class Deal {
